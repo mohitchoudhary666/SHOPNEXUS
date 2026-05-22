@@ -1,0 +1,6 @@
+{
+  "name": "ShopNexus Smart Store",
+  "description": "A full-stack AI-powered e-commerce portal and presentation platform built as a BCA Final Year Project. Features include a dynamic shop, checkout flow, AI shopping advisor, Admin CRUD panel, and a comprehensive Viva documentation showcase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
